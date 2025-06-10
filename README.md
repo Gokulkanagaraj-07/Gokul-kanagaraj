@@ -1,4 +1,4 @@
-#  hello All✌️
+#  Hello All✌️
 
    Welcome to my cybersecurity portfolio! I am passionate about securing digital assets, hunting vulnerabilities, and building safer cyber environments. Here you’ll find my personal projects, research, and contributions related to cybersecurity.
 
