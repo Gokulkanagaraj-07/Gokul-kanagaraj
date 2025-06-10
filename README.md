@@ -1,15 +1,15 @@
 #  Hello All✌️
 
-   Welcome to my cybersecurity portfolio! I am passionate about securing digital assets, hunting vulnerabilities, and building safer cyber environments. Here you’ll find my personal projects, research, and contributions related to cybersecurity.
+   Welcome to my cybersecurity portfolio! 
+       I am passionate about securing digital assets, hunting vulnerabilities, and building safer cyber environments. Here you’ll find my personal projects, research, and contributions related to cybersecurity.
 
 ## 👤 About Me
 
-- **Name:** Gokul Kanagaraj
-- **Interests:** Ethical Hacking, Malware Analysis, SOC Analyst, Digital Forensic & Incident Response, Blue Team Operations
-- **Certifications:** *(Add your certifications, e.g., CEH, OSCP, CompTIA Security+, etc.)*
-- **Contact:** gokul.kanagaraj@example.com | [LinkedIn](https://linkedin.com/in/your-profile)
-- **TryHackMe:** 
-<img src="https://tryhackme-badges.s3.amazonaws.com/GokulKanagaraj.png" alt="Your Image Badge" />
+- **Name   :**        Gokul Kanagaraj
+- **College:**        Paavai Engineering College
+- **Domain :**        Cyber Security
+- **Interests:**      Ethical Hacking, Malware Analysis, SOC Analyst, Digital Forensic & Incident Response, Blue Team Operations
+- **Certifications:** CSI Linux Certified Investigator, Certified in Cybersecurity
 
 ---
 
@@ -17,52 +17,101 @@
 
 | Section               | Description                                             |
 |-----------------------|--------------------------------------------------------|
-| [`WebAppSec`](./WebAppSec)      | Web application vulnerability research & code        |
-| [`Pentest-Reports`](./Pentest-Reports) | Realistic pentesting reports (sanitized/redacted)   |
-| CTF-Writeups  | Capture The Flag solutions, writeups & walkthroughs |
-| [`Tools`](./Tools)          | Custom scripts, tools, exploits, and PoCs           |
-| [`Research`](./Research)      | Security research, whitepapers, and presentations   |
+| WebAppSec      | Web application vulnerability research & code        |
+| Pentest-Reports| Realistic pentesting reports (sanitized/redacted)   |
+| CTF-Writeups   | Capture The Flag solutions, writeups & walkthroughs |
+| Tools          | Custom scripts, tools, exploits, and PoCs           |
+| Research       | Security research, whitepapers, and presentations   |
 
 ---
 
-## 🏆 Highlight Projects
 
-### [VulnHub Walkthroughs](./CTF-Writeups/VulnHub)
-Write-ups for VulnHub machines, demonstrating enumeration, exploitation, privilege escalation, and reporting.
+## 📚 Skills;
 
-### [Web Vulnerability Scanner](./Tools/WebVulnScanner)
-A Python-based scanner for detecting common web vulnerabilities (SQLi, XSS, LFI, etc.).
+## Technical Skills
 
-### [Malware Analysis Lab](./Research/Malware-Analysis)
-Static and dynamic analysis of real-world malware samples.
-
-### [Firewall Evasion Scripts](./Tools/FirewallEvasion)
-Custom scripts to bypass simple firewall rules for educational purposes.
-
----
-
-## 📚 Skills
-
-- Penetration Testing (Web, Network, Wireless)
-- Vulnerability Assessment & Reporting
+- Vulnerability Assessment &  Management
 - Malware Analysis (Static & Dynamic)
 - SIEM & Log Analysis
-- Red Team/Blue Team Operations
+- Blue Team Operations
+- Endpoint Security
+- Threat Intelligence
+- Digital Forensic & Incident Response
 - Python, Bash, PowerShell scripting
+
+
+ ## Soft skills
+ 
+ - Decision Making
+ - Ethical Judgment
+ - Attention to Detail
+ - Team Collaboration
+ - Continuous Learning
+ 
+ ## Extra-Curricular Activites;
+ 
+- Volunteering
+- Research Projects
+- Cybersecurity Clubs
+- Virtual Labs(CTF)
+
+
+
+
+## Achivements;
+- **TryHackMe:** <img src="https://tryhackme-badges.s3.amazonaws.com/GokulKanagaraj.png" alt="Your Image Badge" />
+
+
+## Experience:
+  
+- Cyber Security Intern
+  Navodita Infotech · Internship
+  May 2025 - May 2025   
+
+- Penetration Testing
+  CFSS Cyber & Forensics Security Solutions · Internship
+  Aug 2024 - Sep 2024  
+  
+- Cyber Security & Ethical Hacking
+  TechnoHacks EduTech Official · Internship
+  Mar 2024 - Apr 2024 
+
+ ## Licenses & certifications;
+ 
+- Junior Cybersecurity Analyst
+- Certified in Cybersecurity
+- Blue Team Junior Analyst
+- IBM QRadar SIEM Foundation
+- Security Operations and the Defense Analyst
+- Cyber Defensive Security 
+
+## Projects:
+  
+  1.caesar-cipher
+     The Caesar cipher is a simple encryption technique that was used by Julius Caesar to send secret messages to his allies. It works by shifting the letters in    the plaintext message by a certain number of positions, known as the “shift” or “key”. The Caesar Cipher technique is one of the earliest and simplest methods    of encryption techniques.
+
+
+   my GitHub: https://github.com/Gokulkanagaraj-07/caesar-cipher.git
+
+
+
 
 ---
 
-## 📝 Blog & Writeups
+## 📝 Blog & Writeups;
 
 - [Medium](https://medium.com/@your-profile) — In-depth guides and tutorials
 - [CTF Writeups](./CTF-Writeups) — Solutions for HackTheBox, TryHackMe, and more
 
 ---
 
+
+
 ## 🤝 Let's Collaborate!
 
 Open to freelance projects, collaborations, and CTF teams. Feel free to connect!
+## Contact:
+- My Email-id :gokulkanagaraj7@gmail.com
+- LinkedIn    :https://www.linkedin.com/in/gokul-kanagaraj07
 
 ---
-
-
