@@ -1,7 +1,10 @@
 #  Hello All✌️
 
    Welcome to my portfolio! 
-       I am passionate about securing digital assets, hunting vulnerabilities, and building safer cyber environments. Here you’ll find my personal projects, research, and contributions related to cybersecurity.Proficient in network security, threat analysis, and incident response, with hands-on experience gained through internships and academic projects. Eager to apply my knowledge of security protocols and tools to help organizations protect their digital assets. Strong analytical and problem-solving skills, combined with a passion for staying updated on the latest cybersecurity trends and threats.
+
+
+   
+   I am passionate about securing digital assets, hunting vulnerabilities, and building safer cyber environments. Here you’ll find my personal projects, research, and contributions related to cybersecurity.Proficient in network security, threat analysis, and incident response, with hands-on experience gained through internships and academic projects. Eager to apply my knowledge of security protocols and tools to help organizations protect their digital assets. Strong analytical and problem-solving skills, combined with a passion for staying updated on the latest cybersecurity trends and threats.
 
 ## 👤 About Me
 
