@@ -89,10 +89,26 @@
 
 
 ## 🦾Achivements;
-- [Credly](https://www.credly.com/users/gokul-kanagaraj.cb508ea6) — Badges from IBM, CISCO, OPSWAT, ISC2
-- [Leetcode](https://leetcode.com/u/GOKUL-K/) — Completed 170+ problems in Python, Java.
-- [Try Hack Me](https://tryhackme.com/p/GokulKanagaraj) — Top 8%, Solve 50+ rooms, Rank 132565.
-- Given Cyber Security Awarness about 200+ Students.
+
+      -Awarness   --------> Social Engineering Attacks 
+                            Over 200+ Students in non technical Domains Students
+
+      -Credly     --------> gokul-kanagaraj
+                            https://www.credly.com/users/gokul-kanagaraj.cb508ea6 
+                            25+ Digital Badges from Various Platforms
+				                (IBM, CISCO, OPSWAT, ISC2, Fortinet & etc).
+                   
+      -Leetcode   --------> GOKUL-K
+                            https://leetcode.com/u/GOKUL-K/
+				                Completed 170+ problems in Python,Java.
+                            (Basic, Problem Solving, Data Structure)
+                           
+      -Try Hack Me -------> GokulKanagaraj
+                            https://tryhackme.com/p/GokulKanagaraj 
+                            Top 8%
+                            Solve 50+ rooms & 10+ Badges 
+                            Rank 132565
+
 
 
 ## Experience:
