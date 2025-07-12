@@ -1,6 +1,6 @@
 #  Hello All ✌️
 
-   Welcome to my portfolio! 
+   Welcome to my portfolio! 👇🏼
 
 
    
@@ -8,28 +8,24 @@
 
 ## 👤 About Me
 
-- **Name   :**        Gokul K
-- **Github:**         Gokulkanagaraj-07    
-- **Native:**         Dharmapuri       
+- **My Name   :**        Gokul K
+- **Github    :**        Gokulkanagaraj-07    
+- **Native    :**        Dharmapuri       
 - **My Education:**
+  
 
 
-     Paavai Educational Institutions
+   -**College🎓**  Paavai Educational Institutions
+  
+                   Bachelor of Engineering in Cyber Security
+                   Grade: CGPA-8.25
+                   2022 - 2026
 
 
-     Bachelor of Engineering in Cyber Security
-
-
-     Grade: CGPA-8.25
-
-
-     2022 - 2026
-
-
-     Variyar Higher Secondary School 
-
-
-     Grade: SSLC-94.3%, HSC-73.5%
+     -**School🏫**  Variyar Higher Secondary School
+  
+                  Grade: SSLC-94.3%
+                         HSC-73.5%
 
 
 ---
@@ -51,14 +47,22 @@
 
 ## Technical Skills
 
-- Vulnerability Assessment &  Management
-- Malware Analysis (Static & Dynamic)
-- SIEM & Log Analysis
-- Blue Team Operations
+
+- Hacking
 - Endpoint Security
 - Threat Intelligence
+- SIEM & Log Analysis
+- Blue Team Operations
+- Malware Analysis (Static & Dynamic)
 - Digital Forensic & Incident Response
-- Python, Bash, PowerShell scripting
+- Vulnerability Assessment &  Management
+
+## Programming Language
+
+    Java                  ------> intermediate level  
+    Bash scripting        ------> beginner level 
+    Shell scripting       ------> beginner level
+    PowerShell scripting  ------> beginnerlevel 
 
 
  ## Soft skills
@@ -74,7 +78,12 @@
 - Volunteering
 - Research Projects
 - Cybersecurity Clubs
-- Virtual Labs(CTF) -TryHackme, Cybrary, Cyber Defenders
+- Virtual Labs(CTF)
+  
+            TryHackme
+            Cybrary
+            Cyber Defenders
+            Pico CTF
 
 
 
@@ -88,19 +97,48 @@
 
 ## Experience:
   
-- Cyber Security Intern at
-  Navodita Infotech · 
-  May 2025 - May 2025   
+**Navodita Infotech**
 
-- Penetration Testing in
-  CFSS Cyber & Forensics Security Solutions · Internship
-  Aug 2024 - Sep 2024  
+      Cyber Security Intern
+      May 2025 - May 2025 
+
+**LetsUpgrade**
+
+      Student Ambassador
+      Sep 2024 - Sep 2024 
+
+**Cyber & Forensics Security Solutions**
+
+      Penetration Testing     
+      Aug 2024 - Sep 2024  
   
-- Cyber Security & Ethical Hacking on
-  TechnoHacks EduTech Official · 
-  Mar 2024 - Apr 2024
+**TechnoHacks EduTech Official**
 
-**My practice platform:**
+      Cyber Security & Ethical Hacking 
+      Mar 2024 - Apr 2024
+
+
+
+
+
+---
+
+## 📃Licenses & certifications;
+
+
+ 
+       Blue Team Junior Analyst                          -------------> Security Blue team**
+       Certified in Cybersecurity                        -------------> ISC2
+       Cyber Defensive Security                          -------------> MindLuster
+       CSI Linux Certified Investigator                  -------------> Linux Academy
+       Certified Cybersecurity Practitioner              -------------> Palo Alto Networks
+       Junior Cybersecurity Analyst                      -------------> Cisco
+       IBM QRadar SIEM Foundation                        -------------> IBM
+       Fortinet Certified Associate in Cybersecurity     -------------> Fortinet
+       Security Operations and the Defense Analyst       -------------> Splunk
+       Vulnerability Management Detection and response   -------------> Qualys
+---
+## My practice platform:
 
 
 
@@ -121,20 +159,7 @@
 
 
 -[Letsdefend](https://app.letsdefend.io/user/gokulkanagaraj) - gokulkanagaraj
-
-
-
-
-      
-
- ## Licenses & certifications;
- 
-- Junior Cybersecurity Analyst - Cisco
-- Certified in Cybersecurity - ISC2
-- Blue Team Junior Analyst - Security Blue team
-- IBM QRadar SIEM Foundation - IBM
-- Security Operations and the Defense Analyst - Splunk 
-- Cyber Defensive Security - MindLuster
+---
 
 ## Projects:
   
@@ -160,8 +185,10 @@
 ## 🤝 Let's Collaborate!
 
 Open to freelance projects, collaborations, and CTF teams. Feel free to connect!
-## Contact:
-- My Email-id :gokulkanagaraj7@gmail.com
-- LinkedIn    :https://www.linkedin.com/in/gokul-kanagaraj07
 
+## Contact:
+
+- 📞     : 7092582184
+- 📧     :gokulkanagaraj7@gmail.com
+- 🇮🇳      :https://www.linkedin.com/in/gokul-kanagaraj07
 ---
