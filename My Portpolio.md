@@ -15,17 +15,22 @@
   
 
 
-   -**College🎓**  Paavai Educational Institutions
-  
+   -**College🎓**
+
+
+
+                   Paavai Educational Institutions
                    Bachelor of Engineering in Cyber Security
                    Grade: CGPA-8.25
                    2022 - 2026
 
 
-     -**School🏫**  Variyar Higher Secondary School
-  
-                  Grade: SSLC-94.3%
-                         HSC-73.5%
+     -**School🏫**
+
+
+                   Variyar Higher Secondary School
+                   Grade: SSLC-94.3%
+                   HSC-73.5%
 
 
 ---
@@ -75,10 +80,10 @@
  
  ## Extra-Curricular Activites;
  
-- Volunteering
-- Research Projects
-- Cybersecurity Clubs
-- Virtual Labs(CTF)
+ - Volunteering
+ - Research Projects
+ - Cybersecurity Clubs
+ - Virtual Labs(CTF)
   
             TryHackme
             Cybrary
@@ -154,27 +159,38 @@
        Security Operations and the Defense Analyst       -------------> Splunk
        Vulnerability Management Detection and response   -------------> Qualys
 ---
+## My play Grounds:
+
+
+
+
 ## My practice platform:
 
 
+-Cyber Defenders       --------> GOKUL07
 
+  https://cyberdefenders.org/p/GOKUL07
 
--Cyber Defenders
-        <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/GOKUL07.png" width="300" />
+ 
+       
+-Cybrary               --------> GOKUL-K
 
+  https://app.cybrary.it/profile/GOKUL-K
 
 
         
--TryHackMe
-         <img src="https://tryhackme-badges.s3.amazonaws.com/GokulKanagaraj.png" alt="Your Image Badge" />
+-Try Hack Me           --------> GokulKanagaraj
+
+  https://tryhackme.com/p/GokulKanagaraj
 
 
 
 
+-Letsdefend            --------> gokulkanagaraj
 
-
-
--[Letsdefend](https://app.letsdefend.io/user/gokulkanagaraj) - gokulkanagaraj
+ https://app.letsdefend.io/user/gokulkanagaraj
+         
+         
 ---
 
 ## Projects:
