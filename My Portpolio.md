@@ -1,4 +1,4 @@
-#  Hello All ✌️
+#  Hello All 🙋‍♂️
 
    Welcome to my portfolio! 👇🏼
 
@@ -35,15 +35,19 @@
 
 ---
 
-## 🗂️ Portfolio Structure
+## 🗂️ Portfolio Structure 👇
 
-| Section               | Description                                             |
-|-----------------------|--------------------------------------------------------|
-| My Skills    | Technical and Soft Skills     |
-| Extra-Curricular Activites| My Hobbies  |
-|  Achivements   | Collect Badges |
-| Experience       |    Perfom Real Time Experience    |
-| Licenses & certifications      | Get Certified from various Organizations  |
+
+**My Skills**   |
+**Extra-Curricular Activites**   |
+**Achivements**   |
+**Experience**   |
+**Licenses & Certifications**  |  
+**My play Grounds**   |
+**Projects**   |
+**Blog & Writeups**   |
+**Contact**   |
+
 
 ---
 
@@ -245,8 +249,13 @@ A Password Complexity Checker is a tool that evaluates the strength of a passwor
 
 ## 📝 Blog & Writeups;
 
-- [Medium](https://medium.com/@GokulKangaraj) — Career Guideness and Sucessfull Stories.
+**Medium**  -----------> GokulKangaraj
 
+  https://medium.com/@GokulKangaraj
+  
+   
+  Medium is a fantastic source of articles from a huge variety of writers, poets, and comic artists from around the World.
+  
 ---
 
 
@@ -258,6 +267,6 @@ Open to freelance projects, collaborations, and CTF teams. Feel free to connect!
 ## Contact:
 
 - 📞     : 7092582184
-- 📧     :gokulkanagaraj7@gmail.com
-- 🇮🇳      :https://www.linkedin.com/in/gokul-kanagaraj07
+- 📧     : gokulkanagaraj7@gmail.com
+- 🌐     : https://www.linkedin.com/in/gokul-kanagaraj07
 ---
