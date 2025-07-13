@@ -195,15 +195,52 @@
 
 ## Projects:
   
-  1.caesar-cipher
-     The Caesar cipher is a simple encryption technique that was used by Julius Caesar to send secret messages to his allies. It works by shifting the letters in    the plaintext message by a certain number of positions, known as the “shift” or “key”. The Caesar Cipher technique is one of the earliest and simplest methods    of encryption techniques.
+  **1.Caesar-Cipher:**
+  
+The Caesar cipher is a simple encryption technique that was used by Julius Caesar to send secret messages to his allies. It works by shifting the letters in    the plaintext message by a certain number of positions, known as the “shift” or “key”. The Caesar Cipher technique is one of the earliest and simplest methods    of encryption techniques.
 
 
-   my GitHub: https://github.com/Gokulkanagaraj-07/caesar-cipher.git
+   My GitHub: https://github.com/Gokulkanagaraj-07/caesar-cipher.git
+   
+---
+**2.Pixel manipulation for Image Encryption:**
+
+This Python program implements a simple image encryption tool using pixel manipulation techniques. The program can encrypt and decrypt images by performing basic mathematical operations on the pixel values. It is designed to be user-friendly, guiding users through the encryption and decryption processes with clear prompts.
+
+   My GitHub: https://github.com/Gokulkanagaraj-07/image-encryption-and-decryption.git
+
+---
+**3.Keylogger:**
+
+A keylogger, short for keystroke logger, is a type of surveillance technology used to monitor and record each keystroke typed on a keyboard. Keyloggers can be software-based or hardware-based, and they often operate in the background without the user’s knowledge. While they can be used for legitimate purposes, such as monitoring employee activity or troubleshooting technical issues, they are more commonly associated with malicious activities.
+
+   My GitHub: https://github.com/Gokulkanagaraj-07/keylogger.git
+
+---
+**4.packet sniffer:**
+
+A packet sniffer, also known as a packet analyzer or simply a sniffer, is a tool used
+to intercept, log, and analyze network traffic. It captures data packets traveling
+over a network, allowing users to view and interpret the information contained within
+them.
+
+  My GitHub: https://github.com/Gokulkanagaraj-07/PacketSniffer.git
+
+---
+
+**5.Password Complexity Checker:**
+
+A Password Complexity Checker is a tool that evaluates the strength of a password based on various criteria. It analyzes elements like length, the use of uppercase and lowercase letters, numbers, and special characters. The goal is to ensure that passwords are difficult to guess or crack, enhancing security for users. Using such a checker can help you create stronger passwords and protect your personal information and accounts from unauthorized access.
+
+
+  My GitHub: https://github.com/Gokulkanagaraj-07/Password_checker.git
+
+---
 
 
 
 
+   
 ---
 
 ## 📝 Blog & Writeups;
